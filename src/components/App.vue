@@ -71,6 +71,7 @@ export default {
     }
     firebase.initializeApp(firebaseConfig);
 
+
     try {
       const user = await firebase.auth().signInAnonymously();
       console.log(user);

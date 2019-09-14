@@ -1,6 +1,7 @@
 {
   "projects": {
-    "default": "friendlyeats-vue",
-    "eats": "friendlyeats-vue"
+    "default": "friendlyeats-6e20b",
+    "eats": "friendlyeats-vue",
+    "staging": "friendlyeats-6e20b"
   }
 }
